@@ -1,0 +1,18 @@
+body {
+    /* background: #0c0a1d; */
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)) , url('https://media.discordapp.net/attachments/820634074191364108/1049261360975974430/unknown.png?width=1195&height=672');
+    background-size: cover; */
+    background: linear-gradient(rgb(17, 24, 39), rgb(75, 85, 99));
+  }
+  
+  /* .darker {
+    position: fixed;
+    top: -94%;
+    left: -10%;
+    width: 150%;
+    height: 150%;
+    background: #1e1d3b;
+    -webkit-transform: rotate(30deg);
+            transform: rotate(30deg);
+  } */
+  
